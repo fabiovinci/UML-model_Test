@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0:1", "", "Noise Contour (DF4_8)", "EARoot/EA1.htm", "175.png", "27702", "0", "", "Logical diagram0","{750A1B57-F25A-4576-A200-3EAAD092A9BA}");
-tocTab[tocTab.length] = new Array("0:2", "", "«codeList» NoiseIndicatorRangeValue", "EARoot/EA8.htm", "5.png", "E51581", "0", "", "Class0","{0C6C80F2-EBDE-4274-A3D3-3656FBE5DD70}");
-tocTab[tocTab.length] = new Array("0:3", "", "«codeList» NoiseIndicatorValue", "EARoot/EA9.htm", "5.png", "E51580", "0", "", "Class0","{5F6CC54B-1E28-4daf-8362-9A078D213574}");
-tocTab[tocTab.length] = new Array("0:4", "", "«codeList» NoiseSourceTypeValue", "EARoot/EA11.htm", "5.png", "E51524", "0", "", "Class0","{42DEC2C6-49BD-4880-A571-D4173CCE3F12}");
