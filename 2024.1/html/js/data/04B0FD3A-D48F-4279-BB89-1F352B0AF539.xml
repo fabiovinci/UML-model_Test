@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.1.3:1", "", "Cadastral Parcels", "EARoot/EA2/EA1/EA3/EA7525.htm", "175.png", "27297", "0", "", "Logical diagram0","{06965625-36E4-41b3-BBCA-9752F6781B41}");
+tocTab[tocTab.length] = new Array("0.2.1.3.1", "1", "«applicationSchema» CadastralParcels", "EARoot/EA2/EA1/EA3/EA1/EA7539.htm", "4.png", "", "", "{996E5E20-CC81-41f3-9F6A-52BF193F1693}", "Package");
